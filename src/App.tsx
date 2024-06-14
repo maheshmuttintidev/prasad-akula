@@ -6,10 +6,10 @@ function App() {
       </h1>
 
       <div className="mt-auto">
-        <p className="leading-3 text-3xl md:text-6xl text-center font-bold text-white bg-black p-3 ">
+        <p className="text-3xl md:text-6xl text-center font-bold text-white bg-black p-3 ">
           Wishing you very happy birthday 🎂🎆🎆
         </p>
-        <p className="leading-3 text-3xl drop-shadow-lg border border-t-1 border-b-0 border-l-0 border-r-0 border-t-white md:text-6xl text-center font-bold text-white bg-black p-3 ">
+        <p className="text-3xl drop-shadow-lg border border-t-1 border-b-0 border-l-0 border-r-0 border-t-white md:text-6xl text-center font-bold text-white bg-black p-3 ">
           God bless you abundantly 🎉
         </p>
       </div>
